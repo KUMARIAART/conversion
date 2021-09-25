@@ -1,0 +1,12 @@
+a="5"
+b=10
+print(int(a)+b)
+print(str(b)+a)
+print(int(a)+str(b))
+print(int(a)+float(b))
+print(int(a)+"float(b)")
+print(a+str(b)+"int(a)")
+print(int(a)+float(b)+10.5)
+print(b+"int(a)"+"str(b)")
+print(str(b)+"hi"+"str(a)")
+print(int(a)+b+20)
